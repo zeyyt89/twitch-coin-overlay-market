@@ -24,7 +24,7 @@ Un overlay interactif pour streamers Twitch qui permet aux viewers d'influencer 
 
 1.  **Cloner le projet**
     ```bash
-    git clone [https://github.com/TON_PSEUDO/CroustiCoin.git](https://github.com/TON_PSEUDO/CroustiCoin.git)
+    git clone [https://github.com/zeyyt89/twitch-coin-overlay-market.git](https://github.com/TON_PSEUDO/CroustiCoin.git)
     cd CroustiCoin
     ```
 
