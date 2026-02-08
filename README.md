@@ -24,8 +24,8 @@ Un overlay interactif pour streamers Twitch qui permet aux viewers d'influencer 
 
 1.  **Cloner le projet**
     ```bash
-git clone [https://github.com/zeyyt89/twitch-coin-overlay-market.git](https://github.com/zeyyt89/twitch-coin-overlay-market.git)
-cd twitch-coin-overlay-market
+    git clone [https://github.com/zeyyt89/twitch-coin-overlay-market.git](https://github.com/zeyyt89/twitch-coin-overlay-market.git)
+    cd twitch-coin-overlay-market
     ```
 
 2.  **Installer les dépendances**
@@ -37,7 +37,7 @@ cd twitch-coin-overlay-market
     Oouvre le fichier `server.js` et modifie la ligne suivante avec le nom de ta chaîne :
     ```javascript
     // server.js - Ligne ~15
-    const monPseudoTwitch = 'ton_pseudo_twitch_ici';
+    const twitchname = 'pseudo_twitch_ici';
     ```
 
 4.  **Lancer le serveur**
@@ -74,5 +74,5 @@ Tu peux ajuster la logique du marché dans `server.js` :
 
 ## 📝 Auteur
 
-Créé pour le fun et l'engagement communautaire.
-N'hésite pas à fork le projet pour créer ta propre monnaie !
+Créé l'engagement communautaire. (Pour mon twitch: zeystreams)
+N'hésite pas à fork le projet !
